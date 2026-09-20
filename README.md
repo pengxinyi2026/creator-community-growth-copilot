@@ -6,7 +6,6 @@
 
 <p><a href="https://creator-community-growth-copilot-nrvy7k4cawyjdffl5gazsw.streamlit.app">🚀 Live Demo</a> · <a href="https://github.com/pengxinyi2026/creator-community-growth-copilot">💻 GitHub</a></p>
 
-<p><a href="https://creator-community-growth-copilot-nrvy7k4cawyjdffl5gazsw.streamlit.app">🚀 Live Demo</a> · <a href="https://github.com/pengxinyi2026/creator-community-growth-copilot">💻 GitHub</a></p>
 
 <p>
   <a href="#run-locally">Run locally</a> ·
