@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Local secrets and machine-specific files
+.env
+.DS_Store
+.python-version
+
+# Local backup copies
+*_backup*.py

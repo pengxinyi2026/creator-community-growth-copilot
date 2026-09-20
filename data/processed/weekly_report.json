@@ -1,0 +1,217 @@
+{
+  "report_title": "Weekly Creator Community Operations Report",
+  "report_date": "2026-09-20",
+  "kpi_summary": {
+    "total_creators": 300,
+    "high_potential_creators": 6,
+    "growth_opportunity_creators": 77,
+    "consistent_active_creators": 96,
+    "reengagement_candidates": 0,
+    "high_reactivation_candidates": 0,
+    "average_creator_growth_score": 46.51,
+    "median_creator_growth_score": 44.0,
+    "campaign_eligible_creators": 7,
+    "strong_campaign_matches": 3,
+    "good_campaign_matches": 3,
+    "potential_campaign_matches": 1,
+    "ai_insight_creators": 7,
+    "ai_pending_review": 7,
+    "ai_failed_generation": 0
+  },
+  "community_snapshot": {
+    "total_creators": 300,
+    "score_band_distribution": {
+      "Low Priority": 124,
+      "Developing": 93,
+      "Growth Potential": 77,
+      "High Potential": 6
+    },
+    "primary_segment_distribution": {
+      "High Potential": 6,
+      "Re-engagement": 0,
+      "Growth Opportunity": 77,
+      "Consistent Active": 96,
+      "Other / Developing": 121
+    },
+    "average_engagement_rate": 0.072,
+    "average_follower_growth": 0.0628,
+    "average_activity_score": 59.09,
+    "recently_inactive_count": 65
+  },
+  "top_creator_opportunities": [
+    {
+      "creator_id": "creator_115",
+      "market": "Poland",
+      "category": "Beauty",
+      "creator_growth_score": 88.85,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Community Nurturing",
+      "activity_score": 90.66666666666666,
+      "engagement_rate_pct": 14.37,
+      "growth_rate_pct": 22.1,
+      "response_rate_pct": 83.91999999999999
+    },
+    {
+      "creator_id": "creator_277",
+      "market": "Germany",
+      "category": "Fashion",
+      "creator_growth_score": 88.3,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Community Nurturing",
+      "activity_score": 95.55555555555556,
+      "engagement_rate_pct": 14.08,
+      "growth_rate_pct": 15.04,
+      "response_rate_pct": 91.23
+    },
+    {
+      "creator_id": "creator_083",
+      "market": "UK",
+      "category": "Technology",
+      "creator_growth_score": 86.44,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Community Nurturing",
+      "activity_score": 63.111111111111114,
+      "engagement_rate_pct": 14.37,
+      "growth_rate_pct": 24.95,
+      "response_rate_pct": 97.29
+    },
+    {
+      "creator_id": "creator_210",
+      "market": "France",
+      "category": "Beauty",
+      "creator_growth_score": 82.8,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Campaign Activation",
+      "activity_score": 96.0,
+      "engagement_rate_pct": 14.4,
+      "growth_rate_pct": 22.89,
+      "response_rate_pct": 70.92
+    },
+    {
+      "creator_id": "creator_262",
+      "market": "France",
+      "category": "Fashion",
+      "creator_growth_score": 82.31,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Campaign Activation",
+      "activity_score": 88.22222222222223,
+      "engagement_rate_pct": 14.52,
+      "growth_rate_pct": 21.86,
+      "response_rate_pct": 86.85000000000001
+    },
+    {
+      "creator_id": "creator_141",
+      "market": "Netherlands",
+      "category": "Fashion",
+      "creator_growth_score": 82.14,
+      "score_band": "High Potential",
+      "primary_segment": "High Potential",
+      "secondary_opportunity": "Community Nurturing",
+      "activity_score": 73.77777777777777,
+      "engagement_rate_pct": 13.33,
+      "growth_rate_pct": 22.6,
+      "response_rate_pct": 82.01
+    },
+    {
+      "creator_id": "creator_140",
+      "market": "Germany",
+      "category": "Technology",
+      "creator_growth_score": 79.38,
+      "score_band": "Growth Potential",
+      "primary_segment": "Growth Opportunity",
+      "secondary_opportunity": "Growth Support",
+      "activity_score": 100.0,
+      "engagement_rate_pct": 13.81,
+      "growth_rate_pct": 18.06,
+      "response_rate_pct": 82.16
+    },
+    {
+      "creator_id": "creator_195",
+      "market": "France",
+      "category": "Lifestyle",
+      "creator_growth_score": 78.88,
+      "score_band": "Growth Potential",
+      "primary_segment": "Growth Opportunity",
+      "secondary_opportunity": "Growth Support",
+      "activity_score": 78.22222222222221,
+      "engagement_rate_pct": 12.37,
+      "growth_rate_pct": 20.5,
+      "response_rate_pct": 78.47
+    },
+    {
+      "creator_id": "creator_029",
+      "market": "Germany",
+      "category": "Lifestyle",
+      "creator_growth_score": 78.49,
+      "score_band": "Growth Potential",
+      "primary_segment": "Growth Opportunity",
+      "secondary_opportunity": "Growth Support",
+      "activity_score": 84.22222222222223,
+      "engagement_rate_pct": 12.93,
+      "growth_rate_pct": 15.590000000000002,
+      "response_rate_pct": 65.32
+    },
+    {
+      "creator_id": "creator_184",
+      "market": "France",
+      "category": "Food",
+      "creator_growth_score": 78.24,
+      "score_band": "Growth Potential",
+      "primary_segment": "Growth Opportunity",
+      "secondary_opportunity": "Growth Support",
+      "activity_score": 95.33333333333334,
+      "engagement_rate_pct": 13.78,
+      "growth_rate_pct": 19.76,
+      "response_rate_pct": 92.54
+    }
+  ],
+  "campaign_summary": [
+    {
+      "campaign_id": "CAMP-001",
+      "campaign_name": "EU Beauty Growth Campaign",
+      "total_eligible_creators": 7,
+      "strong_matches": 3,
+      "good_matches": 3,
+      "potential_matches": 1,
+      "top_match_score": 98.5,
+      "average_match_score": 87.05,
+      "top_creator_ids": [
+        "creator_067",
+        "creator_014",
+        "creator_123",
+        "creator_243",
+        "creator_252"
+      ]
+    }
+  ],
+  "reactivation_summary": {
+    "total_candidates": 0,
+    "high_priority": 0,
+    "medium_priority": 0,
+    "average_reactivation_score": 0,
+    "top_candidates": [],
+    "message": "No reactivation candidates found in the current synthetic dataset."
+  },
+  "ai_review_summary": {
+    "total_ai_records": 7,
+    "ai_generated_count": 7,
+    "prompt_only_count": 7,
+    "api_error_count": 0,
+    "failed_validation_count": 0,
+    "pending_review_count": 7,
+    "approved_count": 0,
+    "rejected_count": 0
+  },
+  "operational_priorities": [
+    "7 creators are currently eligible for campaign matching.",
+    "6 creators are currently in the High Potential segment.",
+    "77 creators are currently in the Growth Opportunity segment.",
+    "No reactivation candidates meet the current reactivation criteria.",
+    "Suggested operational follow-up: review 7 creator outreach drafts pending human review."
+  ]
+}
